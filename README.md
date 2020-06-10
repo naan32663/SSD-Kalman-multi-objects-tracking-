@@ -3,4 +3,4 @@ This repository shows an model consist of SSD + Hungarian algorithm + Kalman fil
 
 The dependence: Python 3.7, Kares 2.4, CUDA: 10.0 
 
-![image](https://github.com/naan32663/SSD-Kalman-multi-objects-tracking-/tree/master/demoVideo/MyVideo_1.gif)
+![image](https://github.com/naan32663/SSD-Kalman-multi-objects-tracking-/blob/master/demoVideo/MyVideo_1.gif)
