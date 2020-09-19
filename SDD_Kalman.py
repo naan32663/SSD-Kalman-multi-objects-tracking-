@@ -67,9 +67,8 @@ ssd_loss = SSDLoss(neg_pos_ratio=3, alpha=1.0)
 
 model.compile(optimizer=adam, loss=ssd_loss.compute_loss)
 
-#path = "D:/120/frames/cutFrames/IMG_8501_ano/"
-path = "D:/120/frames/IMG_8501_ano/"
-out_path="./output-k/"
+path = "D:/IMG_8501/"
+out_path="./output/"
 
 images = os.listdir(path)
 # Set the colors for the bounding boxes
